@@ -17,14 +17,9 @@ This project analyzes customer data to predict churn using machine learning tech
 
 ## Project Structure
 - `data/`: Contains raw and cleaned datasets.
-- `notebooks/`: Includes Jupyter notebooks for EDA and modeling.
+- `notebooks/`: Includes notebooks for EDA and modeling.
 - `src/`: Scripts for preprocessing, modeling, and evaluation.
 - `results/`: Charts, reports, and outputs from analysis.
-
-## Setup Instructions
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run Jupyter notebooks in `notebooks/` for data analysis and modeling.
 
 ## Results
 - Achieved 85% accuracy with Random Forest model.
